@@ -1,4 +1,4 @@
-package guru.qa;
+package guru.qa.lesson4;
 
 public class Homework1 {
     /*

@@ -1,6 +1,6 @@
-package guru.qa;
+package guru.qa.lesson4;
 
-public class Main {
+public class JavaPartI {
     public static void main(String[] args) {
         /*целые числа
         1. Для каждого из этих типов есть свой выделяемый рамер памяти
