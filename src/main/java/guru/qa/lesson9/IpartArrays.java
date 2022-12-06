@@ -1,7 +1,6 @@
 package guru.qa.lesson9;
 
 import java.util.Arrays;
-
 public class IpartArrays {
     //JavaPartII - arrays
     public static void main(String[] args) {

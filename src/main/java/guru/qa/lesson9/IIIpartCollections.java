@@ -1,7 +1,6 @@
 package guru.qa.lesson9;
 
 import java.util.*;
-
 public class IIIpartCollections {
     public static void main(String[] args) {
 

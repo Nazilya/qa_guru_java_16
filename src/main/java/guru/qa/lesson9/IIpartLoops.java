@@ -1,5 +1,4 @@
 package guru.qa.lesson9;
-
 public class IIpartLoops {
 //JavaPartII - Loops
     public static void main(String[] args) {
